@@ -708,7 +708,7 @@ extended_resource_definition
 
 __Returns__
 
-`(Object)`: Ocean Extended Resource Defintion response
+`(Object)`: Ocean Extended Resource Definition response
 
 <h2 id="spotinst_sdk2.clients.ocean.OceanAwsClient.update_extended_resource_definition">update_extended_resource_definition</h2>
 
